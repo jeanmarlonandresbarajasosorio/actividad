@@ -39,4 +39,4 @@
 │ - medico     │◄─────► (asociación bidireccional)
 └──────────────┘
 
-PARA LA EJECUCION node index.js
+
